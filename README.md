@@ -1,5 +1,7 @@
 ### Hi there 👋
+Welcome to my GitHub playground! 
 
+I'm a physics graduate student at Levy Lab, University of Pittsburgh. Your virtual presence here is greatly appreciated, so dive in, tinker around, and let's unravel the secrets of the digital and physical realms together! 
 <!--
 **pgwijesinghe/pgwijesinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
